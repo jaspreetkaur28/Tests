@@ -1,0 +1,14 @@
+C:\Users\Jaspreet Kaur\source\repos\UserPortalTests\bin\Debug\netcoreapp2.1\UserPortalTests.deps.json
+C:\Users\Jaspreet Kaur\source\repos\UserPortalTests\bin\Debug\netcoreapp2.1\UserPortalTests.runtimeconfig.json
+C:\Users\Jaspreet Kaur\source\repos\UserPortalTests\bin\Debug\netcoreapp2.1\UserPortalTests.runtimeconfig.dev.json
+C:\Users\Jaspreet Kaur\source\repos\UserPortalTests\bin\Debug\netcoreapp2.1\UserPortalTests.dll
+C:\Users\Jaspreet Kaur\source\repos\UserPortalTests\obj\Debug\netcoreapp2.1\UserPortalTests.csprojAssemblyReference.cache
+C:\Users\Jaspreet Kaur\source\repos\UserPortalTests\obj\Debug\netcoreapp2.1\UserPortalTests.csproj.CoreCompileInputs.cache
+C:\Users\Jaspreet Kaur\source\repos\UserPortalTests\obj\Debug\netcoreapp2.1\UserPortalTests.AssemblyInfoInputs.cache
+C:\Users\Jaspreet Kaur\source\repos\UserPortalTests\obj\Debug\netcoreapp2.1\UserPortalTests.AssemblyInfo.cs
+C:\Users\Jaspreet Kaur\source\repos\UserPortalTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Jaspreet Kaur\source\repos\UserPortalTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Jaspreet Kaur\source\repos\UserPortalTests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Jaspreet Kaur\source\repos\UserPortalTests\bin\Debug\netcoreapp2.1\UserPortalTests.pdb
+C:\Users\Jaspreet Kaur\source\repos\UserPortalTests\obj\Debug\netcoreapp2.1\UserPortalTests.dll
+C:\Users\Jaspreet Kaur\source\repos\UserPortalTests\obj\Debug\netcoreapp2.1\UserPortalTests.pdb
