@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jaspreet Kaur\\source\\repos\\UserPortalTests\\UserPortalTests.csproj": {}
+    "C:\\Tests\\UserPortalTests\\UserPortalTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jaspreet Kaur\\source\\repos\\UserPortalTests\\UserPortalTests.csproj": {
+    "C:\\Tests\\UserPortalTests\\UserPortalTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jaspreet Kaur\\source\\repos\\UserPortalTests\\UserPortalTests.csproj",
+        "projectUniqueName": "C:\\Tests\\UserPortalTests\\UserPortalTests.csproj",
         "projectName": "UserPortalTests",
-        "projectPath": "C:\\Users\\Jaspreet Kaur\\source\\repos\\UserPortalTests\\UserPortalTests.csproj",
+        "projectPath": "C:\\Tests\\UserPortalTests\\UserPortalTests.csproj",
         "packagesPath": "C:\\Users\\Jaspreet Kaur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jaspreet Kaur\\source\\repos\\UserPortalTests\\obj\\",
+        "outputPath": "C:\\Tests\\UserPortalTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
